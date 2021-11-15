@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Official Website of Rene.Dai</title>
+
+	<!-- Browser Tab Icon -->
+	<link rel="shortcut icon" href="img/logo/rd.png" type="image/png" />
+	
+	<!-- CSS File Links -->
+	<link rel="stylesheet" type="text/css" href="css/bio.css" />
+	<link rel="stylesheet" type="text/css" href="css/second_nav.css" />
+
+	<!-- Other Online Style Links -->
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+	<link href="https://fonts.googleapis.com/css?family=Dosis" rel="stylesheet" />
+	<link href="https://fonts.googleapis.com/css?family=Abel|Quicksand:300,400,700" rel="stylesheet" />
+	
+	<!-- JS File -->
+	<script type="text/javascript" src="js/transition.js"></script>
+
+</head>
+
+<body>
+	<div id="container">
+		<div id="nav_bar">
+			<nav>
+				<div class="left">
+				<a href="https://www.youtube.com/channel/UCZP4VbuHF09wd2KCwZxoR7A/featured"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+					<a href="https://www.instagram.com/shineshinee__/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+					<a href="https://www.linkedin.com/in/rene-dai-9ba557185/"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
+				</div>
+				
+				<a class="logo" href="index.html"><img src="img/logo/rd.png" /></a>
+
+				<div class="right">
+					<a href="bio.html">ABOUT</a>
+					<a href="entertain.html">WORKS</a>
+					<a href="contact.html">CONTACT</a>
+				</div>
+			</nav>
+		</div>
+
+		<div id="bio-wrapper">
+			<div class="bio">
+				<h1>About Me</h1>
+
+				<div class="headshot">
+					<img src="img/bio/Frame 12.png" />
+				</div>
+				
+				<div class="bio-content">
+					<p><strong>I am Rene,</strong> a builder, a dreamer and a food lover. I spent 5 years studying design and have now worked for 2 years in the industry. I enjoy tweaking and pushing pixels to create pleasing designs and smooth interactions. At the same time, I love the process of deriving user needs from research, navigating through complex problems, balancing constraints and requirements to arrive at <strong>meaningful user experiences</strong>. </p>
+		
+				
+				</div>
+			</div>	
+		</div>
+	
+		<div id="client-wrapper">
+			<div class="cwb">
+				<h1>My clients</h1>
+			</div>
+			
+			<div class="line"> </div>
+
+			<div class="client-image">
+				<div class="list">
+					<div class="row">
+					  <img src="img/bio/未标题-1-01.png" />
+			          <img src="img/bio/未标题-1-02.png" />
+			          <img src="img/bio/未标题-1-03.png" />
+			          <img src="img/bio/未标题-1-04.png" />
+			   		</div>
+
+			     	<div class="row">
+					  <img src="img/bio/未标题-1-06.png" />
+			          <img src="img/bio/未标题-1-07.png" />
+			          <img src="img/bio/未标题-1-08.png" />
+			          <img src="img/bio/未标题-1-09.png" />
+			     	</div>
+					
+					<div class="row">
+						<img src="img/bio/未标题-1-05.png"/>
+						<img src="img/bio/未标题-1-10.png"/>
+						<img src="img/bio/未标题-1-11.png"/>
+					</div>
+				
+		      </div>
+			</div>
+		</div>
+		
+		<div id="myuxskills">
+			<div class="uxb">
+				<h1>My works</h1>
+			</div>
+			<div class="flex-container">
+				<div class="uxb"> <p> Pocket </p>
+					<div class="uimg">
+						<img src="img/bio/Frame 20.png">
+					</div>
+					<div class="uxp">
+					<p>Package Tracker</p>
+					</div>
+					<button>See more</button>
+				</div>
+				<div class="uxb">
+					<p>Amed</p> 
+				<div class="uimg">
+						<img src="img/bio/Frame 21.png">
+				  </div>
+				<div class="uxp">
+					<p>Allergy, Medicine Management</p>
+				  </div>
+						<button>See more</button>
+				</div>
+			</div>
+		</div>
+		
+		<div id="myuxworks">
+			<div class="uxb2">
+				<h1>My UX skills</h1>
+			</div>
+			<section class="grid-container">
+	<div class="item-a">
+		 <div class="center">
+			 <img src="img/bio/2.png" width="1200" height="200"></div>
+				</div>
+		<div class="item-b">
+			 <div class="center">
+				 <img src="img/bio/4.png" width="1200" height="200"></div>
+				</div>
+  <div class="item-c">
+	   <div class="center">
+		   <img src="img/bio/3.png" width="1200" height="200"></div>
+	</div>
+  <div class="item-d">
+	  <div class="center">
+		  <img src="img/bio/1.png" width="1200" height="200"></div>
+	</div>
+			
+	
+														
+	<div id="footer">
+			<div class="center">
+				<p>Get in touch with me</p></div>
+		
+				<a href="https://www.youtube.com/channel/UCZP4VbuHF09wd2KCwZxoR7A/featured"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+					<a href="https://www.instagram.com/shineshinee__/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+					<a href="https://www.linkedin.com/in/rene-dai-9ba557185/"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
+	      <p>Copyright &copy; 2021 Rene Dai. All Rights Reserved.</p> 
+	  	</div>
+  	</div>
+  	 
+</body>
+</html>
